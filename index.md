@@ -8,11 +8,11 @@ My research interest is data privacy, including privacy protection in ML (i.e. f
 
 ## Accepted Papers
 
-- [ESEC/FSE 21](https://2021.esec-fse.org/) **TaintStream: Fine-Grained Taint Tracking for Big Data Platforms through Dynamic Code Translation**
+- \[[ESEC/FSE 21]\] (https://2021.esec-fse.org/) **TaintStream: Fine-Grained Taint Tracking for Big Data Platforms through Dynamic Code Translation**
 
-Chengxu Yang, Yuanchun Li, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu
+  Chengxu Yang, Yuanchun Li, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu
 
-\[[prf](/res/papers/fse21.pdf)\] \[[code](https://github.com/PrivacyStreams/TaintStream)\]
+  \[[pdf](/res/papers/fse21.pdf)\] \[[code](https://github.com/PrivacyStreams/TaintStream)\]
 
 ```markdown
 Syntax highlighted code block
