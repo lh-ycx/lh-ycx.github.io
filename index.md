@@ -6,6 +6,8 @@ I got my B.S. degree in Computer Science from [Peking University](https://www.pk
 
 My research interest is data privacy, including privacy protection in ML (i.e. federated learning) and compliance checking in big data platforms.
 
+Email: yangchengxu.pku.edu.cn
+
 ## Accepted Papers
 
 - \[[ESEC/FSE 21](https://2021.esec-fse.org/)\] **TaintStream: Fine-Grained Taint Tracking for Big Data Platforms through Dynamic Code Translation** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3468264.3468532)\] \[[code](https://github.com/PrivacyStreams/TaintStream)\]
