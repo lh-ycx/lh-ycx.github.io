@@ -1,6 +1,6 @@
-# Welcome to CHENGXU YANG's Homepage
+# Welcome to Chengxu's Homepage
 
-## Welcome to CHENGXU YANG's Homepage
+## Chengxu Yang (杨程旭)
 
 You can use the [editor on GitHub](https://github.com/lh-ycx/yangchengxu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
