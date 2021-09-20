@@ -18,4 +18,24 @@ Email: yangchengxu.pku.edu.cn
 
   **Chengxu Yang**, Qipeng Wang, Mengwei Xu, Zhenpeng Chen, Kaigui Bian, Yunxin Liu, Xuanzhe Liu
 
+## Honors and Awards
 
+1. 2021, President Scholarship, Peking University
+
+2. 2020, Merit Student, Peking University
+
+3. 2018, Wangshengdi Scholarship, EECS, Peking University
+
+4. 2018, Merit Student, Peking University
+
+5. 2016, TP-Link Scholarship, EECS, Peking University
+
+## Teaching Experience
+
+1. Undergraduate Student Instructor, EECS, Peking University (Sep, 2019 - Now)
+
+2. Teaching Assistant, Introduction to C++ Programming Language (Undergraduate), Peking University (Fall 2021)
+
+3. Teaching Assistant, Distributed Machine Learning Systems (Graduate), Peking University (Fall 2020)
+
+4. Teaching Assistant, Introduction to C++ Programming Language (Undergraduate), Peking University (Fall 2019)
