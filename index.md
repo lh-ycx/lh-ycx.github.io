@@ -2,9 +2,11 @@
 
 ## Chengxu Yang (杨程旭)
 
-You can use the [editor on GitHub](https://github.com/lh-ycx/yangchengxu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a 3rd-year PhD student in [EECS](https://eecs.pku.edu.cn/Home/HOME.htm), [Peking University](https://www.pku.edu.cn/), advised by [Prof. Xuanzhe Liu](liuxuanzhe.com). Here is my [cv](/res/cv.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I got my B.S. degree in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2019.
+
+My research interest is data privacy, including privacy protection in ML (i.e. federated learning), compliance checking in big data platforms.
 
 ### Markdown
 
