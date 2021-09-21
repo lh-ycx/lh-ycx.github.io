@@ -4,7 +4,7 @@ I'm a 3rd-year PhD student in [EECS](https://eecs.pku.edu.cn/Home/HOME.htm), [Pe
 
 I got my B.S. degree in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2019.
 
-My research interest is data privacy, including privacy protection in ML (i.e. federated learning) and compliance checking in big data platforms.
+My research interest is data privacy, including privacy protection in ML (e.g. federated learning) and compliance checking in big data platforms.
 
 Email: yangchengxu.pku.edu.cn
 
