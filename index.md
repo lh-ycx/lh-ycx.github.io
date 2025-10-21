@@ -1,6 +1,6 @@
 ## Chengxu Yang (杨程旭)
 
-I'm a 4th-year PhD student in [EECS](https://eecs.pku.edu.cn/Home/HOME.htm), [Peking University](https://www.pku.edu.cn/), advised by [Prof. Xuanzhe Liu](liuxuanzhe.com). Here is my [cv](/res/cv.pdf).
+I'm a 4th-year PhD student in [EECS](https://eecs.pku.edu.cn/Home/HOME.htm), [Peking University](https://www.pku.edu.cn/), advised by [Prof. Xuanzhe Liu](liuxuanzhe.com).
 
 I got my B.S. degree in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2019.
 
